@@ -1,0 +1,39 @@
+[
+	{
+		"id": 1,
+		"icon": "dubdless",
+		"name": "Отжимания",
+		"targert": 10,
+		"days": [
+			{ "comment": "Первый подход всегда дается тяжело" },
+			{ "comment": "Второй день уже проще" }
+		]
+	},
+	{
+		"id": 2,
+		"icon": "food",
+		"name": "Правильное пиатние",
+		"targert": 10,
+		"days": [
+			{ "comment": "Круто!" }
+		]
+	},
+	{
+		"id": 3,
+		"icon": "water",
+		"name": "Питье",
+		"targert": 10,
+		"days": [
+			{ "comment": "Круто!" }
+		]
+	},
+	{
+		"id": 4,
+		"icon": "read",
+		"name": "Чтение",
+		"targert": 10,
+		"days": [
+			{ "comment": "Чтение - круто!" }
+		]
+	}
+]
